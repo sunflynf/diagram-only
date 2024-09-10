@@ -35,9 +35,11 @@
             <mxGeometry x="370" y="122" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="A_tRMl9OzeEIElT0_HVN-6" value="&lt;div&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Geq60OVyBPg&quot;&gt;&lt;b&gt;Unit + Integration Test &lt;br&gt;&lt;/b&gt;&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Amigoscode&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="335" y="-22" width="190" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;b&gt;Unit + Integration Test &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Amigoscode&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" link="https://www.youtube.com/watch?v=Geq60OVyBPg" linkTarget="_blank" id="A_tRMl9OzeEIElT0_HVN-6">
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+            <mxGeometry x="335" y="-22" width="190" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="A_tRMl9OzeEIElT0_HVN-8" value="Topics" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="85" y="238" width="210" height="211" as="geometry" />
         </mxCell>
@@ -158,7 +160,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="A_tRMl9OzeEIElT0_HVN-36" value="Topics" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="238" width="198" height="90" as="geometry" />
+          <mxGeometry x="-600" y="238" width="198" height="120" as="geometry" />
         </mxCell>
         <UserObject label="Secure React App" link="https://www.freecodecamp.org/news/best-practices-for-security-of-your-react-js-application/" linkTarget="_blank" id="A_tRMl9OzeEIElT0_HVN-37">
           <mxCell style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="A_tRMl9OzeEIElT0_HVN-36" vertex="1">
@@ -168,6 +170,11 @@
         <UserObject label="Testing UI" link="https://www.youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd" linkTarget="_blank" id="A_tRMl9OzeEIElT0_HVN-38">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=3" parent="A_tRMl9OzeEIElT0_HVN-36" vertex="1">
             <mxGeometry y="60" width="198" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="JSX Style" link="https://airbnb.io/javascript/react/" linkTarget="_blank" id="LZDjGuLIjO9N8Cgg-rzT-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="A_tRMl9OzeEIElT0_HVN-36">
+            <mxGeometry y="90" width="198" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Packages" link="https://docs.google.com/spreadsheets/d/1jOXX-Q-QajfHaKHrD3v7qxB8P6t8QTAwo1B-WVbQ02Y/edit?usp=sharing" linkTarget="_blank" id="BcxkKTfhXMORWPRL0KGC-1">
@@ -316,6 +323,14 @@
         </mxCell>
         <UserObject label="Fresher - Vietnamese" link="https://devopsedu.vn/courses/devops-for-freshers/" linkTarget="_blank" id="rMr0FGeiORw4gGF6iECH-2">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rMr0FGeiORw4gGF6iECH-1">
+            <mxGeometry y="30" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WdEhbAVgKgihzardTwjR-1" value="Git" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="233" width="140" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Practices" link="https://dev.to/anthonyvii/be-a-better-developer-with-these-git-good-practices-2dim" linkTarget="_blank" id="WdEhbAVgKgihzardTwjR-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WdEhbAVgKgihzardTwjR-1">
             <mxGeometry y="30" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
