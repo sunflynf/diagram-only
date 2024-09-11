@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nC9ieNnPbug5NNrmApC4-4" value="UI Review" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-985" y="707" width="302" height="101" as="geometry" />
+        </mxCell>
         <mxCell id="A_tRMl9OzeEIElT0_HVN-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="A_tRMl9OzeEIElT0_HVN-1" target="A_tRMl9OzeEIElT0_HVN-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -211,6 +214,11 @@
         <mxCell id="2A8ZFKeaI4tce9xDM0_u-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_tRMl9OzeEIElT0_HVN-30" target="2A8ZFKeaI4tce9xDM0_u-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="s4V4u7eP2CB4-T4Vom7N-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_tRMl9OzeEIElT0_HVN-30" target="s4V4u7eP2CB4-T4Vom7N-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-877" y="-155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A_tRMl9OzeEIElT0_HVN-30" value="UI Build-ins" style="whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="-960" y="-8" width="120" height="60" as="geometry" />
         </mxCell>
@@ -225,7 +233,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="A_tRMl9OzeEIElT0_HVN-36" value="Topics" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="-788" y="238" width="198" height="120" as="geometry" />
+          <mxGeometry x="-788" y="238" width="198" height="150" as="geometry" />
         </mxCell>
         <UserObject label="Secure React App" link="https://www.freecodecamp.org/news/best-practices-for-security-of-your-react-js-application/" linkTarget="_blank" id="A_tRMl9OzeEIElT0_HVN-37">
           <mxCell style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="A_tRMl9OzeEIElT0_HVN-36" vertex="1">
@@ -240,6 +248,11 @@
         <UserObject label="JSX Style" link="https://airbnb.io/javascript/react/" linkTarget="_blank" id="LZDjGuLIjO9N8Cgg-rzT-2">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="A_tRMl9OzeEIElT0_HVN-36" vertex="1">
             <mxGeometry y="90" width="198" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Cancel fetch on &lt;i&gt;useEffect&lt;/i&gt;" link="https://plainenglish.io/community/how-to-cancel-fetch-and-axios-requests-in-react-useeffect-hook" linkTarget="_blank" id="nC9ieNnPbug5NNrmApC4-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="A_tRMl9OzeEIElT0_HVN-36">
+            <mxGeometry y="120" width="198" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Packages" link="https://docs.google.com/spreadsheets/d/1jOXX-Q-QajfHaKHrD3v7qxB8P6t8QTAwo1B-WVbQ02Y/edit?usp=sharing" linkTarget="_blank" id="BcxkKTfhXMORWPRL0KGC-1">
@@ -403,6 +416,15 @@
             <mxGeometry y="30" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="nC9ieNnPbug5NNrmApC4-2" value="Histories" style="whiteSpace=wrap;html=1;fillColor=#00CC66;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-818" y="738" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nC9ieNnPbug5NNrmApC4-3" value="Storybook" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="738" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s4V4u7eP2CB4-T4Vom7N-2" value="Ant Design" style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-882" y="-214" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -579,7 +601,7 @@
           <mxGeometry x="291" y="703" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4-BX3yJHwEfxN6rnvuA3-2" value="Categorize" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="802" y="-69" width="246" height="60" as="geometry" />
+          <mxGeometry x="798" y="-69" width="246" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Raindrop - Bookmarks all-in-one" link="https://raindrop.io/" linkTarget="_blank" id="4-BX3yJHwEfxN6rnvuA3-3">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4-BX3yJHwEfxN6rnvuA3-2">
@@ -588,7 +610,7 @@
         </UserObject>
         <UserObject label="Elastic" link="https://www.elastic.co/" linkTarget="_blank" id="qyLUUWere0tfVHfgWr3u-1">
           <mxCell style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-            <mxGeometry x="800" y="76" width="120" height="60" as="geometry" />
+            <mxGeometry x="798" y="76" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="wk-gDA3cCPZwCzzYAiUZ-3" value="&lt;b&gt;GIT &lt;/b&gt;- Version Control Platform" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
@@ -645,6 +667,11 @@
         <UserObject label="Sentry - Application" link="https://logrocket.com/" linkTarget="_blank" id="ujgjC2BoGbnKgaNtB4tR-10">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ujgjC2BoGbnKgaNtB4tR-4">
             <mxGeometry y="110" width="176" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Kafka" link="https://www.baeldung.com/apache-kafka-serie" linkTarget="_blank" id="dgLlwtcYaaG1lmeQUv3c-1">
+          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="798" y="-256" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -753,7 +780,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="gM5tw1xoA-L23gTAA8RF-1" value="Personal&#39;s Blogs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="191" y="26" width="140" height="150" as="geometry" />
+          <mxGeometry x="439" y="467" width="140" height="180" as="geometry" />
         </mxCell>
         <UserObject label="Tania Rascia" link="https://www.taniarascia.com/" linkTarget="_blank" id="gM5tw1xoA-L23gTAA8RF-3">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="gM5tw1xoA-L23gTAA8RF-1" vertex="1">
@@ -773,6 +800,11 @@
         <UserObject label="Amigos Code" link="https://blog.amigoscode.com/" linkTarget="_blank" id="vz-UprbM7jfa1ZueT_LQ-1">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="gM5tw1xoA-L23gTAA8RF-1">
             <mxGeometry y="120" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Favio Copes" link="https://flaviocopes.com/" linkTarget="_blank" id="IPsJOJn-D0sASJudPGk8-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="gM5tw1xoA-L23gTAA8RF-1">
+            <mxGeometry y="150" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="7dViAO_drtnGI-U18zf8-1" value="Tips &amp;amp; Tricks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;flipH=1;" parent="1" vertex="1">
@@ -825,7 +857,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="krBVhOfB5dLz2o1UW6Hc-1" value="Documents" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="467" width="210" height="90" as="geometry" />
+          <mxGeometry x="-380" y="467" width="210" height="150" as="geometry" />
         </mxCell>
         <UserObject label="Programming Books &amp;amp; Links" link="https://ebookfoundation.github.io/free-programming-books/" linkTarget="_blank" id="krBVhOfB5dLz2o1UW6Hc-2">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="krBVhOfB5dLz2o1UW6Hc-1" vertex="1">
@@ -835,6 +867,16 @@
         <UserObject label="Design Patterns" link="https://refactoring.guru/design-patterns" linkTarget="_blank" id="krBVhOfB5dLz2o1UW6Hc-12">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="krBVhOfB5dLz2o1UW6Hc-1" vertex="1">
             <mxGeometry y="60" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Free Frontend" link="https://freefrontend.com/" linkTarget="_blank" id="kFzaVeGC73H9GYVEeY4M-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="krBVhOfB5dLz2o1UW6Hc-1">
+            <mxGeometry y="90" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Laravel - News" link="https://laravel-news.com/" linkTarget="_blank" id="mRLHvI6b4eF2xumhRSH7-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="krBVhOfB5dLz2o1UW6Hc-1">
+            <mxGeometry y="120" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="krBVhOfB5dLz2o1UW6Hc-5" value="Cheat Sheets" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#ffffff;strokeColor=#B20000;flipH=1;" parent="1" vertex="1">
@@ -910,7 +952,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="PDwgYoxiPWhLQvca6MuS-2" value="Technology Blogs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="357" y="26" width="196" height="60" as="geometry" />
+          <mxGeometry x="189" y="26" width="196" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;b&gt;Enterprise &lt;/b&gt;DNA&lt;/div&gt;" link="https://blog.enterprisedna.co/" linkTarget="_blank" id="PDwgYoxiPWhLQvca6MuS-6">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDwgYoxiPWhLQvca6MuS-2">
@@ -941,7 +983,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="856pBxFqp3y48xaqtC5c-1" value="Wiki" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="437" y="467" width="140" height="60" as="geometry" />
+          <mxGeometry x="465" y="233" width="140" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Emojipedia" link="https://emojipedia.org/" linkTarget="_blank" id="856pBxFqp3y48xaqtC5c-4">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="856pBxFqp3y48xaqtC5c-1">
@@ -949,7 +991,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="856pBxFqp3y48xaqtC5c-5" value="Icons" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="468" y="233" width="140" height="60" as="geometry" />
+          <mxGeometry x="415" y="26" width="140" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Line icons - SVG" link="https://lineicons.com/" linkTarget="_blank" id="856pBxFqp3y48xaqtC5c-6">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="856pBxFqp3y48xaqtC5c-5">
