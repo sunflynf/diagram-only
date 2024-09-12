@@ -1230,10 +1230,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7W6Kka8l9CS6NDY2Xp2V" name="Learning">
-    <mxGraphModel dx="1834" dy="804" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ahnyH1IbVkhUST_Clc6C-3" value="VIDEOS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-112" y="355" width="588" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="ahnyH1IbVkhUST_Clc6C-2" value="DOCUMENTS &amp;amp; PROJECTS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#cdeb8b;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-112" y="-13" width="588" height="353" as="geometry" />
+        </mxCell>
         <UserObject label="Scrimba" link="https://v2.scrimba.com/home" linkTarget="_blank" id="RcyNZdd2DzErU1WTdD5_-2">
           <mxCell style="whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="-84" y="18" width="120" height="60" as="geometry" />
@@ -1260,20 +1266,29 @@
           </mxCell>
         </UserObject>
         <UserObject label="sitepoint" link="https://www.sitepoint.com/" linkTarget="_blank" id="_JfGF2ZiNCCh2WVTtFYO-1">
-          <mxCell style="whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;fontStyle=0;fontSize=18;fontFamily=Verdana;" parent="1" vertex="1">
             <mxGeometry x="-84" y="125" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Codemia" link="https://codemia.io/" linkTarget="_blank" id="_JfGF2ZiNCCh2WVTtFYO-2">
-          <mxCell style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#000066;fontColor=#66B2FF;fontStyle=1" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#000066;fontColor=#66B2FF;fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="125" y="242" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Design Gurus" link="https://www.designgurus.io/" linkTarget="_blank" id="_JfGF2ZiNCCh2WVTtFYO-3">
-          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000066;strokeColor=#FF0080;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;fontColor=#000066;strokeColor=#FF0080;" parent="1" vertex="1">
             <mxGeometry x="334" y="242" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="ahnyH1IbVkhUST_Clc6C-1" value="UDEMY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-72" y="417" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahnyH1IbVkhUST_Clc6C-4" value="COURSERA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="417" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahnyH1IbVkhUST_Clc6C-5" value="CODECADEMY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="419" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
