@@ -513,7 +513,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3JJq7_LsB5F_0fVbgoNV" name="Tools">
-    <mxGraphModel dx="3007" dy="1847" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2193" dy="1395" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -772,8 +772,8 @@
         <mxCell id="AcouQZ4TC-8lKwrmiyUw-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AcouQZ4TC-8lKwrmiyUw-6" target="AcouQZ4TC-8lKwrmiyUw-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AcouQZ4TC-8lKwrmiyUw-4" value="Daily works" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="-147" width="140" height="180" as="geometry" />
+        <mxCell id="AcouQZ4TC-8lKwrmiyUw-4" value="Daily things" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="937" y="-142.5" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AcouQZ4TC-8lKwrmiyUw-5" value="ChatGPT" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="AcouQZ4TC-8lKwrmiyUw-4">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -809,6 +809,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1572" y="-3" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="AcouQZ4TC-8lKwrmiyUw-8" target="rxgcXkO3Si8fFaIrc34r-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AcouQZ4TC-8lKwrmiyUw-8" value="&lt;div&gt;&lt;span style=&quot;-webkit-line-clamp: 3;&quot; class=&quot;kY2IgmnCmOGjharHErah&quot;&gt;&lt;span&gt;Artificial&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;-webkit-line-clamp: 3;&quot; class=&quot;kY2IgmnCmOGjharHErah&quot;&gt;&lt;span&gt;Intelligence&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="1272" y="-226" width="120" height="60" as="geometry" />
@@ -877,6 +880,102 @@
             <mxGeometry y="30" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-5" value="Productivity" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fillColor=#cce5ff;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1693" y="40" width="469" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-5">
+          <mxGeometry y="30" width="469" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;a href=&quot;https://get.mem.ai/&quot;&gt;Mem&lt;/a&gt;" linkTarget="_blank" id="rxgcXkO3Si8fFaIrc34r-7">
+          <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-6">
+            <mxGeometry width="161" height="40" as="geometry">
+              <mxRectangle width="161" height="40" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-8" value="Note-taking: Summary + Schedule" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-6">
+          <mxGeometry x="161" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-5">
+          <mxGeometry y="70" width="469" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-11" value="&lt;a href=&quot;https://akiflow.com/&quot;&gt;Akiflow&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-10">
+          <mxGeometry width="161" height="40" as="geometry">
+            <mxRectangle width="161" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-12" value="Task management" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-10">
+          <mxGeometry x="161" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-14" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-5">
+          <mxGeometry y="110" width="469" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-15" value="&lt;a href=&quot;https://otio.ai/&quot;&gt;Otio&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-14">
+          <mxGeometry width="161" height="40" as="geometry">
+            <mxRectangle width="161" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-16" value="Organize researches + ideas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-14">
+          <mxGeometry x="161" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-19" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-5">
+          <mxGeometry y="150" width="469" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-20" value="&lt;a href=&quot;https://www.lightkey.io/&quot;&gt;Lightkey&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-19">
+          <mxGeometry width="161" height="40" as="geometry">
+            <mxRectangle width="161" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-21" value="Writing everything" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-19">
+          <mxGeometry x="161" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-22" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-5">
+          <mxGeometry y="190" width="469" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-23" value="&lt;a href=&quot;https://zenkit.com/en/&quot;&gt;Zenkit&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-22">
+          <mxGeometry width="161" height="40" as="geometry">
+            <mxRectangle width="161" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-24" value="Flexible Project Management" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-22">
+          <mxGeometry x="161" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-5">
+          <mxGeometry y="230" width="469" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-26" value="&lt;a href=&quot;https://anki-decks.com/&quot;&gt;Anki&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-25">
+          <mxGeometry width="161" height="40" as="geometry">
+            <mxRectangle width="161" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-27" value="Flask cards" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-25">
+          <mxGeometry x="161" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-28" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-5">
+          <mxGeometry y="270" width="469" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-29" value="&lt;a href=&quot;https://mystudylife.com/&quot;&gt;My Study Life&lt;/a&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-28">
+          <mxGeometry width="161" height="40" as="geometry">
+            <mxRectangle width="161" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rxgcXkO3Si8fFaIrc34r-30" value="Study planner" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=default;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="rxgcXkO3Si8fFaIrc34r-28">
+          <mxGeometry x="161" width="308" height="40" as="geometry">
+            <mxRectangle width="308" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1070,7 +1169,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="krBVhOfB5dLz2o1UW6Hc-1" value="Documents" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="467" width="210" height="150" as="geometry" />
+          <mxGeometry x="-380" y="467" width="210" height="180" as="geometry" />
         </mxCell>
         <UserObject label="Programming Books &amp;amp; Links" link="https://ebookfoundation.github.io/free-programming-books/" linkTarget="_blank" id="krBVhOfB5dLz2o1UW6Hc-2">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="krBVhOfB5dLz2o1UW6Hc-1" vertex="1">
@@ -1090,6 +1189,11 @@
         <UserObject label="Laravel - News" link="https://laravel-news.com/" linkTarget="_blank" id="mRLHvI6b4eF2xumhRSH7-1">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" parent="krBVhOfB5dLz2o1UW6Hc-1" vertex="1">
             <mxGeometry y="120" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Leap year learning" link="https://leapyearlearning.mykajabi.com/" linkTarget="_blank" id="7n7v9QkSoUKjaRru8Zak-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="krBVhOfB5dLz2o1UW6Hc-1">
+            <mxGeometry y="150" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="krBVhOfB5dLz2o1UW6Hc-5" value="Cheat Sheets" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#ffffff;strokeColor=#B20000;flipH=1;" parent="1" vertex="1">
