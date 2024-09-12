@@ -1164,7 +1164,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;Husky&lt;/b&gt; - auto check around branches" link="https://typicode.github.io/husky/" linkTarget="_blank" id="IYVOMbHkbnuxF52_WQX3-1">
-          <mxCell style="text;strokeColor=#36393d;fillColor=#ffff88;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="WdEhbAVgKgihzardTwjR-1">
+          <mxCell style="text;strokeColor=#36393d;fillColor=#ffff88;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0;" parent="WdEhbAVgKgihzardTwjR-1" vertex="1">
             <mxGeometry y="90" width="140" height="49" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1192,7 +1192,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Leap year learning" link="https://leapyearlearning.mykajabi.com/" linkTarget="_blank" id="7n7v9QkSoUKjaRru8Zak-1">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="krBVhOfB5dLz2o1UW6Hc-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" parent="krBVhOfB5dLz2o1UW6Hc-1" vertex="1">
             <mxGeometry y="150" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1316,18 +1316,26 @@
           </mxCell>
         </UserObject>
         <UserObject label="Isocons - SVG + PNG" linkTarget="_blank" link="https://www.isocons.app/" id="Dvwf_ZDIsrm4hhr2lzDW-1">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="856pBxFqp3y48xaqtC5c-5">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="856pBxFqp3y48xaqtC5c-5" vertex="1">
             <mxGeometry y="60" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="SVG Repo" linkTarget="_blank" link="https://www.svgrepo.com/" id="rIF_fHRAWU2AblQd5j_--1">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="856pBxFqp3y48xaqtC5c-5">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="856pBxFqp3y48xaqtC5c-5" vertex="1">
             <mxGeometry y="90" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="SVG Generator" linkTarget="_blank" link="https://www.svgator.com/" id="rIF_fHRAWU2AblQd5j_--2">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="856pBxFqp3y48xaqtC5c-5">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="856pBxFqp3y48xaqtC5c-5" vertex="1">
             <mxGeometry y="120" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="hyhBVuRfEY95n6vHi_I3-1" value="Prompt Engineering" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="26" width="140" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Prompts chat" link="https://prompts.chat/" linkTarget="_blank" id="hyhBVuRfEY95n6vHi_I3-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hyhBVuRfEY95n6vHi_I3-1">
+            <mxGeometry y="30" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
