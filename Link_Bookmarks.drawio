@@ -431,7 +431,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Create T3 App" link="https://create.t3.gg/" linkTarget="_blank" id="HfrLA47bF_TZHdPNwhm1-1">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PbQ7yQ_LRAN5g7_FVF_x-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=2" vertex="1" parent="PbQ7yQ_LRAN5g7_FVF_x-2">
             <mxGeometry y="60" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1069,7 +1069,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E000oMzxQWiZKa2nbOKy" name="Resources">
-    <mxGraphModel dx="1834" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="757" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1115,7 +1115,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="7dViAO_drtnGI-U18zf8-1" value="Tips &amp;amp; Tricks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="26" width="196" height="180" as="geometry" />
+          <mxGeometry x="-380" y="26" width="196" height="210" as="geometry" />
         </mxCell>
         <UserObject label="clear port" link="https://dev.to/devded/how-to-clear-port-8080-in-windows-j8k" linkTarget="_blank" id="7dViAO_drtnGI-U18zf8-2">
           <mxCell style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="7dViAO_drtnGI-U18zf8-1" vertex="1">
@@ -1142,8 +1142,13 @@
             <mxGeometry y="150" width="196" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="REST design" link="https://restcookbook.com/" linkTarget="_blank" id="XG4xgzaKg_PZxF4iYAOt-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7dViAO_drtnGI-U18zf8-1">
+            <mxGeometry y="180" width="196" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="rMr0FGeiORw4gGF6iECH-1" value="DevOps" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="25" y="26" width="140" height="90" as="geometry" />
+          <mxGeometry x="25" y="26" width="140" height="120" as="geometry" />
         </mxCell>
         <UserObject label="Fresher - Vietnamese" link="https://devopsedu.vn/courses/devops-for-freshers/" linkTarget="_blank" id="rMr0FGeiORw4gGF6iECH-2">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="rMr0FGeiORw4gGF6iECH-1" vertex="1">
@@ -1153,6 +1158,11 @@
         <UserObject label="Docker - Beginer" link="https://dev.to/davidmm1707/docker-basics-for-beginners-49l9?ref=dailydev" linkTarget="_blank" id="h4YHr4ZaTT_IukTCpOYl-1">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="rMr0FGeiORw4gGF6iECH-1" vertex="1">
             <mxGeometry y="60" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Awesome Docker" link="https://awesome-docker.netlify.app/" linkTarget="_blank" id="lrAtod9c56RxuU8g6kEj-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="rMr0FGeiORw4gGF6iECH-1">
+            <mxGeometry y="90" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="WdEhbAVgKgihzardTwjR-1" value="Git" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;flipH=1;" parent="1" vertex="1">
@@ -1174,7 +1184,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="krBVhOfB5dLz2o1UW6Hc-1" value="Documents" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="467" width="210" height="180" as="geometry" />
+          <mxGeometry x="-380" y="467" width="210" height="240" as="geometry" />
         </mxCell>
         <UserObject label="Programming Books &amp;amp; Links" link="https://ebookfoundation.github.io/free-programming-books/" linkTarget="_blank" id="krBVhOfB5dLz2o1UW6Hc-2">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="krBVhOfB5dLz2o1UW6Hc-1" vertex="1">
@@ -1199,6 +1209,16 @@
         <UserObject label="Leap year learning" link="https://leapyearlearning.mykajabi.com/" linkTarget="_blank" id="7n7v9QkSoUKjaRru8Zak-1">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" parent="krBVhOfB5dLz2o1UW6Hc-1" vertex="1">
             <mxGeometry y="150" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;u&gt;Algorithms&lt;/u&gt;" link="https://www.enjoyalgorithms.com/" linkTarget="_blank" id="Gmbow5QOnZwZT8AyfONM-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="krBVhOfB5dLz2o1UW6Hc-1">
+            <mxGeometry y="180" width="210" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Dev docs - customize focused docs" link="https://devdocs.io/" linkTarget="_blank" id="XG4xgzaKg_PZxF4iYAOt-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="krBVhOfB5dLz2o1UW6Hc-1">
+            <mxGeometry y="210" width="210" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="krBVhOfB5dLz2o1UW6Hc-5" value="Cheat Sheets" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#CC0000;fontColor=#ffffff;strokeColor=#B20000;flipH=1;" parent="1" vertex="1">
@@ -1335,11 +1355,11 @@
             <mxGeometry y="120" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="hyhBVuRfEY95n6vHi_I3-1" value="Prompt Engineering" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hyhBVuRfEY95n6vHi_I3-1" value="Prompt Engineering" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="584" y="26" width="140" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Prompts chat" link="https://prompts.chat/" linkTarget="_blank" id="hyhBVuRfEY95n6vHi_I3-2">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="hyhBVuRfEY95n6vHi_I3-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="hyhBVuRfEY95n6vHi_I3-1" vertex="1">
             <mxGeometry y="30" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
