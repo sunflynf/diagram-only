@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.13" pages="5">
   <diagram name="Web tech" id="L8_Ru0DfRYATbcx9QnJk">
-    <mxGraphModel dx="3034" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2312" dy="1195" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,7 +214,7 @@
             <mxPoint x="-1064" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_tRMl9OzeEIElT0_HVN-28" target="vaXD-Aw6iruf5Hm8J5wq-17">
+        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="A_tRMl9OzeEIElT0_HVN-28" target="vaXD-Aw6iruf5Hm8J5wq-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Next.js" link="https://nextjs.org/" linkTarget="_blank" id="A_tRMl9OzeEIElT0_HVN-28">
@@ -271,7 +271,7 @@
             <mxGeometry x="-539" y="-116" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="abSObEfRXy2xEbiDXByp-5" target="vaXD-Aw6iruf5Hm8J5wq-1">
+        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="abSObEfRXy2xEbiDXByp-5" target="vaXD-Aw6iruf5Hm8J5wq-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="RegEx" link="https://www.freecodecamp.org/news/regex-in-javascript/" linkTarget="_blank" id="abSObEfRXy2xEbiDXByp-5">
@@ -392,7 +392,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Neobrutalism" link="https://www.neobrutalism.dev/" linkTarget="_blank" id="LTpFMUf67eu7t7tmUohA-1">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;" vertex="1" parent="53xtW2w1oggNzxYsEOpB-20">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Verdana;" parent="53xtW2w1oggNzxYsEOpB-20" vertex="1">
             <mxGeometry y="120" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -423,11 +423,16 @@
           </mxCell>
         </UserObject>
         <mxCell id="PbQ7yQ_LRAN5g7_FVF_x-2" value="Topics" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="-1210" y="328" width="140" height="60" as="geometry" />
+          <mxGeometry x="-1210" y="328" width="140" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="Video" link="https://next-video.dev/" linkTarget="_blank" id="PbQ7yQ_LRAN5g7_FVF_x-3">
+        <UserObject label="&lt;div&gt;Next-Video&lt;/div&gt;" link="https://next-video.dev/" linkTarget="_blank" id="PbQ7yQ_LRAN5g7_FVF_x-3">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PbQ7yQ_LRAN5g7_FVF_x-2" vertex="1">
             <mxGeometry y="30" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Create T3 App" link="https://create.t3.gg/" linkTarget="_blank" id="HfrLA47bF_TZHdPNwhm1-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PbQ7yQ_LRAN5g7_FVF_x-2">
+            <mxGeometry y="60" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="nC9ieNnPbug5NNrmApC4-2" value="Histories" style="whiteSpace=wrap;html=1;fillColor=#00CC66;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="1" vertex="1">
@@ -439,7 +444,7 @@
         <mxCell id="ZOXKTP9DA9FZhsp-pYVh-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ZOXKTP9DA9FZhsp-pYVh-2" target="ZOXKTP9DA9FZhsp-pYVh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZLbGvOdpzxMGInyplLeC-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZOXKTP9DA9FZhsp-pYVh-2" target="ZLbGvOdpzxMGInyplLeC-1">
+        <mxCell id="ZLbGvOdpzxMGInyplLeC-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ZOXKTP9DA9FZhsp-pYVh-2" target="ZLbGvOdpzxMGInyplLeC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZOXKTP9DA9FZhsp-pYVh-2" value="Python" style="whiteSpace=wrap;html=1;fillColor=#007FFF;strokeColor=none;fontColor=#FFFF99;fontStyle=1;fontSize=15;" parent="1" vertex="1">
@@ -456,56 +461,56 @@
           </mxCell>
         </UserObject>
         <UserObject label="Builder Extension" link="https://regexp.dev/" linkTarget="_blank" id="vaXD-Aw6iruf5Hm8J5wq-1">
-          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxCell style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
             <mxGeometry x="-169" y="-117" width="120" height="61" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-4" value="Build-ins" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-4" value="Build-ins" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-1199" y="-223" width="140" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-7" value="Ant Design" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="vaXD-Aw6iruf5Hm8J5wq-4">
+        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-7" value="Ant Design" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="vaXD-Aw6iruf5Hm8J5wq-4" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Chakra UI" link="https://v2.chakra-ui.com/" linkTarget="_blank" id="vaXD-Aw6iruf5Hm8J5wq-14">
-          <mxCell style="text;strokeColor=none;fillColor=#67AB9F;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="vaXD-Aw6iruf5Hm8J5wq-4">
+          <mxCell style="text;strokeColor=none;fillColor=#67AB9F;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fontStyle=1" parent="vaXD-Aw6iruf5Hm8J5wq-4" vertex="1">
             <mxGeometry y="60" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Mantine UI" link="https://mantine.dev/" linkTarget="_blank" id="vaXD-Aw6iruf5Hm8J5wq-5">
-          <mxCell style="text;strokeColor=#10739e;fillColor=#007FFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" vertex="1" parent="vaXD-Aw6iruf5Hm8J5wq-4">
+          <mxCell style="text;strokeColor=#10739e;fillColor=#007FFF;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" parent="vaXD-Aw6iruf5Hm8J5wq-4" vertex="1">
             <mxGeometry y="90" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Radix UI" link="https://www.radix-ui.com/" linkTarget="_blank" id="vaXD-Aw6iruf5Hm8J5wq-6">
-          <mxCell style="text;strokeColor=#190033;fillColor=#330066;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="vaXD-Aw6iruf5Hm8J5wq-4">
+          <mxCell style="text;strokeColor=#190033;fillColor=#330066;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="vaXD-Aw6iruf5Hm8J5wq-4" vertex="1">
             <mxGeometry y="120" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Ark UI" link="https://ark-ui.com/" linkTarget="_blank" id="vaXD-Aw6iruf5Hm8J5wq-8">
-          <mxCell style="text;strokeColor=none;fillColor=#333333;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#EA6B66;fontStyle=1" vertex="1" parent="vaXD-Aw6iruf5Hm8J5wq-4">
+          <mxCell style="text;strokeColor=none;fillColor=#333333;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#EA6B66;fontStyle=1" parent="vaXD-Aw6iruf5Hm8J5wq-4" vertex="1">
             <mxGeometry y="150" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Zag UI" link="https://zagjs.com/" linkTarget="_blank" id="vaXD-Aw6iruf5Hm8J5wq-15">
-          <mxCell style="text;strokeColor=none;fillColor=#00FF80;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="vaXD-Aw6iruf5Hm8J5wq-4">
+          <mxCell style="text;strokeColor=none;fillColor=#00FF80;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="vaXD-Aw6iruf5Hm8J5wq-4" vertex="1">
             <mxGeometry y="180" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="React Aria - Adobe" link="https://react-spectrum.adobe.com/react-aria/" linkTarget="_blank" id="vaXD-Aw6iruf5Hm8J5wq-16">
-          <mxCell style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="vaXD-Aw6iruf5Hm8J5wq-4">
+          <mxCell style="text;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontColor=#FF3333;" parent="vaXD-Aw6iruf5Hm8J5wq-4" vertex="1">
             <mxGeometry y="210" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-17" value="UI Builder" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="vaXD-Aw6iruf5Hm8J5wq-17" value="UI Builder" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="153" width="140" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Next UI" link="https://nextui.org/" linkTarget="_blank" id="vaXD-Aw6iruf5Hm8J5wq-18">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="vaXD-Aw6iruf5Hm8J5wq-17">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" parent="vaXD-Aw6iruf5Hm8J5wq-17" vertex="1">
             <mxGeometry y="30" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;b&gt;Streamlit&lt;/b&gt;&lt;/div&gt;webapps builder" link="https://streamlit.io/" linkTarget="_blank" id="ZLbGvOdpzxMGInyplLeC-1">
-          <mxCell style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="231" y="-325" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
