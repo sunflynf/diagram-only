@@ -175,6 +175,11 @@
         <mxCell id="XfLlDlTyyY2kdCphhUa0-2" value="Fastify" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="648" y="-75" width="120" height="60" as="geometry" />
         </mxCell>
+        <UserObject label="solidity" link="https://soliditylang.org/" linkTarget="_blank" id="E2nZeII68nKwlq2n4QuQ-1">
+          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#410E9E;fontColor=#ffffff;strokeColor=#432D57;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="411" y="518" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
