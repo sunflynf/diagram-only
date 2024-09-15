@@ -592,7 +592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3JJq7_LsB5F_0fVbgoNV" name="Tools">
-    <mxGraphModel dx="993" dy="1463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="1463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -862,9 +862,11 @@
             <mxGeometry y="30" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="AcouQZ4TC-8lKwrmiyUw-6" value="Gemini" style="text;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fontStyle=1" parent="AcouQZ4TC-8lKwrmiyUw-4" vertex="1">
-          <mxGeometry y="60" width="140" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="Gemini" link="https://gemini.google.com/" linkTarget="_blank" id="AcouQZ4TC-8lKwrmiyUw-6">
+          <mxCell style="text;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fontStyle=1" parent="AcouQZ4TC-8lKwrmiyUw-4" vertex="1">
+            <mxGeometry y="60" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <UserObject label="Claude" link="https://claude.ai/" linkTarget="_blank" id="AcouQZ4TC-8lKwrmiyUw-7">
           <mxCell style="text;strokeColor=#B09500;fillColor=#e3c800;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;fontStyle=1" parent="AcouQZ4TC-8lKwrmiyUw-4" vertex="1">
             <mxGeometry y="90" width="140" height="30" as="geometry" />
@@ -877,12 +879,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AcouQZ4TC-8lKwrmiyUw-15" value="Copilot" style="text;strokeColor=#996185;fillColor=#7EA6E0;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#d5739d;fontColor=#FFFFFF;" parent="AcouQZ4TC-8lKwrmiyUw-4" vertex="1">
-          <mxGeometry y="120" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AcouQZ4TC-8lKwrmiyUw-23" value="Le Chat" style="text;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fontStyle=1" parent="AcouQZ4TC-8lKwrmiyUw-4" vertex="1">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
-        </mxCell>
+        <UserObject label="Copilot" link="https://copilot.microsoft.com/" linkTarget="_blank" id="AcouQZ4TC-8lKwrmiyUw-15">
+          <mxCell style="text;strokeColor=#996185;fillColor=#7EA6E0;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;gradientColor=#d5739d;fontColor=#FFFFFF;" parent="AcouQZ4TC-8lKwrmiyUw-4" vertex="1">
+            <mxGeometry y="120" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Le Chat" link="https://chat.mistral.ai/" linkTarget="_blank" id="AcouQZ4TC-8lKwrmiyUw-23">
+          <mxCell style="text;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fontStyle=1" parent="AcouQZ4TC-8lKwrmiyUw-4" vertex="1">
+            <mxGeometry y="150" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="AcouQZ4TC-8lKwrmiyUw-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="AcouQZ4TC-8lKwrmiyUw-8" target="AcouQZ4TC-8lKwrmiyUw-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
