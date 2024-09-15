@@ -1544,6 +1544,9 @@
             <mxGeometry x="334" y="14" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="UHx326gwxkNLJhJdJ7cV-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="ccrZUEgI2V7pFZZR0GYK-4" target="_JfGF2ZiNCCh2WVTtFYO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;font color=&quot;#00994d&quot;&gt;&lt;b&gt;ByteByte&lt;/b&gt;&lt;/font&gt;Go" link="https://bytebytego.com/" linkTarget="_blank" id="ccrZUEgI2V7pFZZR0GYK-4">
           <mxCell style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="334" y="126" width="120" height="60" as="geometry" />
@@ -1554,6 +1557,9 @@
             <mxGeometry x="-84" y="125" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="UHx326gwxkNLJhJdJ7cV-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="_JfGF2ZiNCCh2WVTtFYO-2" target="_JfGF2ZiNCCh2WVTtFYO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="Codemia" link="https://codemia.io/" linkTarget="_blank" id="_JfGF2ZiNCCh2WVTtFYO-2">
           <mxCell style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#000066;fontColor=#66B2FF;fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="125" y="242" width="120" height="60" as="geometry" />
@@ -1564,20 +1570,57 @@
             <mxGeometry x="334" y="242" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="UDEMY" link="https://www.udemy.com/" linkTarget="_blank" id="ahnyH1IbVkhUST_Clc6C-1">
+        <UserObject label="&lt;div&gt;UDEMY&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Buy courses&lt;/font&gt;" link="https://www.udemy.com/" linkTarget="_blank" id="ahnyH1IbVkhUST_Clc6C-1">
           <mxCell style="whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;fontStyle=1;fontSize=16;" parent="1" vertex="1">
             <mxGeometry x="-72" y="417" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ahnyH1IbVkhUST_Clc6C-4" value="COURSERA" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ahnyH1IbVkhUST_Clc6C-4" value="&lt;div&gt;&lt;b&gt;COURSERA&lt;/b&gt;&lt;/div&gt;All course with deadline" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="96" y="417" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ahnyH1IbVkhUST_Clc6C-5" value="CODECADEMY" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ahnyH1IbVkhUST_Clc6C-5" value="&lt;div&gt;&lt;b&gt;CODECADEMY&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Game, Web, Embeded&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="264" y="419" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="freeCodeCamp" link="https://www.freecodecamp.org/news/" linkTarget="_blank" id="iCyPP2qbB3umv_ZiBpE5-1">
-          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;gradientColor=none;fillColor=#333333;fontColor=#FFFFFF;fontFamily=Helvetica;" vertex="1" parent="1">
+        <UserObject label="&lt;div&gt;freeCodeCamp&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;all skills&lt;/span&gt;" link="https://www.freecodecamp.org/news/" linkTarget="_blank" id="iCyPP2qbB3umv_ZiBpE5-1">
+          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;gradientColor=none;fillColor=#333333;fontColor=#FFFFFF;fontFamily=Helvetica;" parent="1" vertex="1">
             <mxGeometry x="-72" y="507" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="UHx326gwxkNLJhJdJ7cV-1" value="PAID" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="505" y="-13" width="588" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="UHx326gwxkNLJhJdJ7cV-2" value="DOCUMENTS &amp;amp; TRAINING" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="505" y="360.5" width="588" height="353" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;b&gt;Fireship.io&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Update new tech&lt;br&gt;&lt;/div&gt;" link="https://fireship.io/courses/" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="543" y="18" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;b&gt;UI.dev&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Focus React Ecosystem&lt;br&gt;&lt;/div&gt;" link="https://ui.dev/" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-3">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="739" y="18" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gF1kR0uKmIXEmPoqZmfw-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="938" y="18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;b&gt;w3Schools&lt;/b&gt;&lt;/div&gt;&lt;div&gt;web + console&lt;br&gt;&lt;/div&gt;" link="https://www.w3schools.com/" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-6">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="543" y="417" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;b&gt;GeeksForGeeks&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Computer Science&lt;br&gt;&lt;/div&gt;" link="https://www.geeksforgeeks.org/" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-8">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="739" y="417" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gF1kR0uKmIXEmPoqZmfw-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="938" y="417" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;b&gt;Edureka&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Advance Career&lt;br&gt;&lt;/div&gt;" link="https://www.edureka.co/" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-10">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="96" y="507" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
