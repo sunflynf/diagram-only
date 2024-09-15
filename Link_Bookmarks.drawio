@@ -1576,10 +1576,10 @@
           </mxCell>
         </UserObject>
         <mxCell id="ahnyH1IbVkhUST_Clc6C-4" value="&lt;div&gt;&lt;b&gt;COURSERA&lt;/b&gt;&lt;/div&gt;All course with deadline" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="96" y="417" width="120" height="60" as="geometry" />
+          <mxGeometry x="117" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ahnyH1IbVkhUST_Clc6C-5" value="&lt;div&gt;&lt;b&gt;CODECADEMY&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Game, Web, Embeded&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="264" y="419" width="120" height="60" as="geometry" />
+          <mxGeometry x="311" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;freeCodeCamp&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;all skills&lt;/span&gt;" link="https://www.freecodecamp.org/news/" linkTarget="_blank" id="iCyPP2qbB3umv_ZiBpE5-1">
           <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;gradientColor=none;fillColor=#333333;fontColor=#FFFFFF;fontFamily=Helvetica;" parent="1" vertex="1">
@@ -1620,7 +1620,30 @@
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;b&gt;Edureka&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Advance Career&lt;br&gt;&lt;/div&gt;" link="https://www.edureka.co/" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-10">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="96" y="507" width="120" height="60" as="geometry" />
+            <mxGeometry x="117" y="507" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;&lt;b&gt;edX&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Data Science&lt;br&gt;&lt;/div&gt;" link="https://home.edx.org/" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="311" y="505" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Microsoft" link="https://learn.microsoft.com/en-us/" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-12">
+          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1164" y="403" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gF1kR0uKmIXEmPoqZmfw-15" value="Google" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="490" width="140" height="90" as="geometry" />
+        </mxCell>
+        <UserObject label="Cert" link="https://grow.google/certificates" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-16">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="gF1kR0uKmIXEmPoqZmfw-15">
+            <mxGeometry y="30" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Cloud" link="https://www.cloudskillsboost.google/" linkTarget="_blank" id="gF1kR0uKmIXEmPoqZmfw-17">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="gF1kR0uKmIXEmPoqZmfw-15">
+            <mxGeometry y="60" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
