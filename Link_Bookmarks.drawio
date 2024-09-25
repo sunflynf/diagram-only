@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.16" pages="5">
   <diagram name="Web tech" id="L8_Ru0DfRYATbcx9QnJk">
     <mxGraphModel dx="3034" dy="1596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1749,7 +1749,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="4GjvrRmMTzPQGGYVxRJZ-1" value="Graphics" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="273" y="233" width="164" height="150" as="geometry" />
+          <mxGeometry x="273" y="233" width="164" height="180" as="geometry" />
         </mxCell>
         <UserObject label="unDraw" link="https://undraw.co/" linkTarget="_blank" id="4GjvrRmMTzPQGGYVxRJZ-3">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4GjvrRmMTzPQGGYVxRJZ-1" vertex="1">
@@ -1769,6 +1769,11 @@
         <UserObject label="3D Graphics" link="https://uigraphic.com/" linkTarget="_blank" id="CjKX9HBvUDJlURnX-cUt-1">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4GjvrRmMTzPQGGYVxRJZ-1" vertex="1">
             <mxGeometry y="120" width="164" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Lexica Art" link="https://lexica.art" linkTarget="_blank" id="reEGkJLRgVNN1xpo18DY-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GjvrRmMTzPQGGYVxRJZ-1">
+            <mxGeometry y="150" width="164" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="wLAPyXia_0qd-1m1uDmK-2" value="CSS" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;flipH=1;" parent="1" vertex="1">
@@ -1839,7 +1844,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Public APIs" link="https://publicapis.io/" linkTarget="_blank" id="W3W9X_9-TSJP-nG8LUCw-6">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PDwgYoxiPWhLQvca6MuS-7">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PDwgYoxiPWhLQvca6MuS-7" vertex="1">
             <mxGeometry y="150" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1875,7 +1880,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Icon Generator" linkTarget="_blank" link="https://www.favicon.cc/" id="U9vluoi2B6_L5aXyYLp7-1">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="856pBxFqp3y48xaqtC5c-5">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="856pBxFqp3y48xaqtC5c-5" vertex="1">
             <mxGeometry y="150" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
