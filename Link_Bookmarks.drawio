@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.16" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.16" pages="5">
   <diagram name="Web tech" id="L8_Ru0DfRYATbcx9QnJk">
-    <mxGraphModel dx="3034" dy="1596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2469" dy="1282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,7 +244,7 @@
             <mxPoint x="-1089" y="-52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7soM7fDN8VafaElre-T9-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="A_tRMl9OzeEIElT0_HVN-30" target="7soM7fDN8VafaElre-T9-3">
+        <mxCell id="7soM7fDN8VafaElre-T9-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="A_tRMl9OzeEIElT0_HVN-30" target="7soM7fDN8VafaElre-T9-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1297" y="86" as="targetPoint" />
           </mxGeometry>
@@ -450,12 +450,16 @@
             <mxGeometry y="60" width="140" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nC9ieNnPbug5NNrmApC4-2" value="Histories" style="whiteSpace=wrap;html=1;fillColor=#00CC66;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1054" y="726" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nC9ieNnPbug5NNrmApC4-3" value="Storybook" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-1196" y="726" width="120" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Histories&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Vue&lt;/span&gt;" link="https://histoire.dev/" linkTarget="_blank" id="nC9ieNnPbug5NNrmApC4-2">
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#00CC66;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+            <mxGeometry x="-1054" y="726" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Storybook" link="https://storybook.js.org/" linkTarget="_blank" id="nC9ieNnPbug5NNrmApC4-3">
+          <mxCell style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+            <mxGeometry x="-1196" y="726" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="ZOXKTP9DA9FZhsp-pYVh-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="ZOXKTP9DA9FZhsp-pYVh-2" target="ZOXKTP9DA9FZhsp-pYVh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -620,7 +624,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;&lt;b&gt;Bulma&lt;/b&gt;&lt;/div&gt;&lt;div&gt;CSS frameworks&lt;br&gt;&lt;/div&gt;" link="https://bulma.io/" linkTarget="_blank" id="7soM7fDN8VafaElre-T9-3">
-          <mxCell style="whiteSpace=wrap;html=1;fontColor=#00CC66;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;fontColor=#00CC66;" parent="1" vertex="1">
             <mxGeometry x="-1272" y="-128" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
