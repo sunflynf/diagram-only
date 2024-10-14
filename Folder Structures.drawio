@@ -97,6 +97,9 @@
         <mxCell id="2zN6kfxq5V9tb6Kz_Sen-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2zN6kfxq5V9tb6Kz_Sen-25" target="2zN6kfxq5V9tb6Kz_Sen-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2zN6kfxq5V9tb6Kz_Sen-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2zN6kfxq5V9tb6Kz_Sen-22" target="2zN6kfxq5V9tb6Kz_Sen-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2zN6kfxq5V9tb6Kz_Sen-25" value="&lt;div&gt;&lt;b&gt;Features&lt;/b&gt;&lt;/div&gt;&lt;div&gt;renders &amp;amp; handlers&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -108,6 +111,9 @@
         </mxCell>
         <mxCell id="2zN6kfxq5V9tb6Kz_Sen-37" value="&lt;div&gt;&lt;b&gt;hooks&lt;/b&gt;&lt;/div&gt;&lt;div&gt;custom for react&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-42" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2zN6kfxq5V9tb6Kz_Sen-38" value="&lt;div&gt;List&lt;/div&gt;&lt;div&gt;Table&lt;/div&gt;&lt;div&gt;Kanban&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="344" y="380" width="120" height="138" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
