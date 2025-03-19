@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17" pages="5">
-  <diagram name="Web tech" id="L8_Ru0DfRYATbcx9QnJk">
-    <mxGraphModel dx="3034" dy="1596" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1" pages="6">
+  <diagram name="JavaScript" id="L8_Ru0DfRYATbcx9QnJk">
+    <mxGraphModel dx="3034" dy="1588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -628,6 +628,14 @@
             <mxGeometry x="-1272" y="-128" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V9gPGUzTUOQgHJbJn8nX" name="React">
+    <mxGraphModel dx="1434" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
@@ -1449,7 +1457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9xyypKEmJsjdjTQy7zQF" name="Database">
-    <mxGraphModel dx="1834" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1550,7 +1558,7 @@
           <mxGeometry x="1196" y="121" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q21ZuYK-APjx_94TIQDG-6" value="Database topics" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="286" width="174" height="240" as="geometry" />
+          <mxGeometry x="910" y="286" width="174" height="180" as="geometry" />
         </mxCell>
         <mxCell id="q21ZuYK-APjx_94TIQDG-7" value="ORMs" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="q21ZuYK-APjx_94TIQDG-6" vertex="1">
           <mxGeometry y="30" width="174" height="30" as="geometry" />
@@ -1567,22 +1575,16 @@
         <mxCell id="q21ZuYK-APjx_94TIQDG-11" value="Database Normalization" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="q21ZuYK-APjx_94TIQDG-6" vertex="1">
           <mxGeometry y="150" width="174" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q21ZuYK-APjx_94TIQDG-12" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="q21ZuYK-APjx_94TIQDG-6" vertex="1">
-          <mxGeometry y="180" width="174" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="q21ZuYK-APjx_94TIQDG-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="q21ZuYK-APjx_94TIQDG-6" vertex="1">
-          <mxGeometry y="210" width="174" height="30" as="geometry" />
-        </mxCell>
         <UserObject label="neo4j" link="https://neo4j.com/" linkTarget="_blank" id="cMxQYUMfKrYQCccrFkvm-1">
-          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=16;" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Helvetica;fontSize=16;" parent="1" vertex="1">
             <mxGeometry x="558" y="436" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="E000oMzxQWiZKa2nbOKy" name="Resources">
-    <mxGraphModel dx="1834" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="E000oMzxQWiZKa2nbOKy" name="Documents">
+    <mxGraphModel dx="1834" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1776,7 +1778,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="Lexica Art" link="https://lexica.art" linkTarget="_blank" id="reEGkJLRgVNN1xpo18DY-1">
-          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GjvrRmMTzPQGGYVxRJZ-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="4GjvrRmMTzPQGGYVxRJZ-1" vertex="1">
             <mxGeometry y="150" width="164" height="30" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1925,8 +1927,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7W6Kka8l9CS6NDY2Xp2V" name="Learning">
-    <mxGraphModel dx="1834" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="7W6Kka8l9CS6NDY2Xp2V" name="Courses &amp; Tutorials">
+    <mxGraphModel dx="1834" dy="1188" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
